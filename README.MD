@@ -7,7 +7,7 @@
 ## 使用
 
 ### 全局安装
-npm i -g https://github.com/llftt/npm-template-cli.git
+npm i -g git+https://github.com/llftt/npm-template-cli.git
 
 ### cli
 

@@ -7,7 +7,7 @@
   "bin": {
     "npm-template-cli": "bin/npm-template-cli.js",
     "npm-template-rollup": "bin/npm-template-rollup.js",
-    "npm-template-webpack": "bin/bobo-template-webpack.js"
+    "npm-template-webpack": "bin/npm-template-webpack.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
