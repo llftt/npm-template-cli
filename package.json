@@ -1,0 +1,28 @@
+{
+  "name": "npm-template-cli",
+  "version": "1.0.0",
+  "description": "",
+  "preferGlobal": true,
+  "main": "index.js",
+  "bin": {
+    "npm-template-cli": "bin/npm-template-cli.js",
+    "npm-template-rollup": "bin/npm-template-rollup.js",
+    "npm-template-webpack": "bin/bobo-template-webpack.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "lixiangfei",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "git-clone": "^0.1.0",
+    "inquirer": "^3.3.0",
+    "ora": "^1.3.0",
+    "rimraf": "^2.6.2"
+  }
+}
